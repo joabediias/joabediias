@@ -28,12 +28,12 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente atuo na *
   - Stack: Python + PySide6 + Pandas
 
 * 💻 **[Conversor de Delimitador para CSVs](https://github.com/joabediias/conversor-DelimitadorCSVs)**
-  Descrição: Aplicação para converter arquivos csv em lote, removendo os quote e alterando delimitador
-  Stack: Python • Pandas + Tkinter
+  - Descrição: Aplicação para converter arquivos csv em lote, removendo os quote e alterando delimitador
+  - Stack: Python • Pandas + Tkinter
 
 * 💻 **[Linktree](https://github.com/joabediias/linktree)**
-  Descrição: Aplicação de link de árvores
-  Stack: HTML + CSS puro
+  - Descrição: Aplicação de link de árvores
+  - Stack: HTML + CSS puro
 
 ## 📫 Contato
 
