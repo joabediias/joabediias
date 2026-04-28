@@ -23,11 +23,11 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente atuo na *
 
 ## 📌 Projetos em Destaque
 
-* 💻 **[Layout Importa Cartao]([link-do-repositorio](https://github.com/joabediias/gerador-importaCartao))**
-  Descrição: Aplicação para manipulação de arquivos e exportação conforme layout desejado 
-  Stack: Python + PySide6 + Pandas
+* 💻 **[Layout Importa Cartao](https://github.com/joabediias/gerador-importaCartao)**
+  - Descrição: Aplicação para manipulação de arquivos e exportação conforme layout desejado 
+  - Stack: Python + PySide6 + Pandas
 
-* 💻 **[Conversor de Delimitador para CSVs]([link-do-repositorio](https://github.com/joabediias/conversor-DelimitadorCSVs))**
+* 💻 **[Conversor de Delimitador para CSVs](https://github.com/joabediias/conversor-DelimitadorCSVs)**
   Descrição: Aplicação para converter arquivos csv em lote, removendo os quote e alterando delimitador
   Stack: Python • Pandas + Tkinter
 
