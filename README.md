@@ -1,4 +1,4 @@
-#👋 Olá, eu sou Joabe Dias
+# 👋 Olá, eu sou Joabe Dias
 
 ## 🚀 Desenvolvedor Fullstack | Implantador de Sistemas
 
@@ -15,7 +15,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**. Tenho foco no ecossis
 ### **Banco de Dados & Ferramentas**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-##👤 Sobre Mim
+## 👤 Sobre Mim
 
 * **Desenvolvedor Fullstack** com foco em ecossistema JavaScript (Node.js/React) e Python.
 * Formado em **Análise e Desenvolvimento de Sistemas**, focado em criar soluções escaláveis e código limpo.
