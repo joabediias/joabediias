@@ -35,10 +35,10 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**. Tenho foco no ecossis
   - Descrição: Aplicação de link de árvores
   - Stack: HTML + CSS puro
 
-## 📫 Contato
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joabe-dias-b8b519339/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joabemilhomens@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joabediias)
 
-⭐ *Sempre em busca de novos desafios e aprendizado contínuo.*
+*Sempre em busca de novos desafios e aprendizado contínuo.*
