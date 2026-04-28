@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Joabe Dias
+# Olá, eu sou Joabe Dias
 
 ## 🚀 Desenvolvedor Fullstack | Implantador de Sistemas
 
